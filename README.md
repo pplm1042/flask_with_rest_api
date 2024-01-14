@@ -6,6 +6,6 @@
 
 ## 에러 로그
 
-### Dockerfile의 이름 첫 글자가 소문자일 경우 도커파일을 인식하지 못하는 에러가 발생(2024.01.15.)
+### Dockerfile의 이름 첫 글자가 소문자일 경우 도커파일을 인식하지 못하는 에러가 발생(2024.01.14.)
 
 <img width="941" alt="image" src="https://github.com/pplm1042/flask_with_rest_api/assets/47880774/c38bc33a-27a5-4813-b8de-da08f5c00523">
